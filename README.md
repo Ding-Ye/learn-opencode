@@ -39,7 +39,7 @@ npm run dev
 | ✅ s05 | provider-iface | Provider 抽象 | Anthropic-only Provider interface |
 | ✅ s06 | streaming-loop | 流式循环 | streaming text + tool_use parse |
 | ✅ s07 | session-store | 会话存储 | SQLite Session/Message/Part tables |
-| ⏳ s08 | config-load | 配置加载 | hierarchical opencode.json merge |
+| ✅ s08 | config-load | 配置加载 | hierarchical opencode.json merge |
 | ⏳ s09 | agent-registry | Agent 注册表 | Agent.Info + permission cascade |
 | ⏳ s10 | tool-loop | 工具执行循环 | streaming + dispatch + result feedback |
 | ⏳ s11 | skills | 技能发现 | SKILL.md frontmatter scan |

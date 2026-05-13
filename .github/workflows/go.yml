@@ -27,6 +27,7 @@ jobs:
           - s05-provider-iface
           - s06-streaming-loop
           - s07-session-store
+          - s08-config-load
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5

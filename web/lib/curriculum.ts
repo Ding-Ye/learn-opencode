@@ -58,7 +58,7 @@ export const CURRICULUM: ChapterMeta[] = [
     slug: "s08-config-load",
     num: "s08",
     title: { zh: "配置加载", en: "Config loading" },
-    available: false,
+    available: true,
   },
   {
     slug: "s09-agent-registry",
