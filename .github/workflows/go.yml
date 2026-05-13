@@ -25,6 +25,7 @@ jobs:
           - s03-tool-registry
           - s04-permission-eval
           - s05-provider-iface
+          - s06-streaming-loop
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5

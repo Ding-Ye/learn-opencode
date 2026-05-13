@@ -46,7 +46,7 @@ export const CURRICULUM: ChapterMeta[] = [
     slug: "s06-streaming-loop",
     num: "s06",
     title: { zh: "流式循环", en: "Streaming loop" },
-    available: false,
+    available: true,
   },
   {
     slug: "s07-session-store",

@@ -6,4 +6,5 @@ use (
 	./agents/s03-tool-registry
 	./agents/s04-permission-eval
 	./agents/s05-provider-iface
+	./agents/s06-streaming-loop
 )
