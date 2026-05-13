@@ -7,9 +7,10 @@
 *.out
 **/agents/*/coverage.txt
 **/agents/*/main
-**/agents/*/s01-minimum-loop
-**/agents/*/s02-message-parts
-**/agents/*/s03-tool-registry
+# Per-session built binaries: each module compiles to a binary named after its dir,
+# e.g. agents/s04-permission-eval/s04-permission-eval. Glob below catches all.
+agents/*/s[0-9][0-9]-*/s[0-9][0-9]-*
+agents/s[0-9][0-9]-*/s[0-9][0-9]-*
 
 # Node / Next
 node_modules/
