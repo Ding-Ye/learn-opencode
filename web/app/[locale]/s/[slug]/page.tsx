@@ -83,6 +83,7 @@ function guessUpstreamFile(slug: string): string | null {
     "s02-message-parts": "s02-message-v2.ts",
     "s03-tool-registry": "s03-tool-registry.ts",
     "s04-permission-eval": "s04-permission-evaluate.ts",
+    "s05-provider-iface": "s05-provider.ts",
   };
   return map[slug] ?? null;
 }

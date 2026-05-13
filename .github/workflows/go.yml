@@ -24,6 +24,7 @@ jobs:
           - s02-message-parts
           - s03-tool-registry
           - s04-permission-eval
+          - s05-provider-iface
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5

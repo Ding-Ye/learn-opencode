@@ -36,7 +36,7 @@ npm run dev
 | ✅ s02 | message-parts | 消息与 Part 模型 | Part union (Text/Tool/File/Reasoning) |
 | ✅ s03 | tool-registry | 工具注册表 | Tool interface + JSON schema + dispatch |
 | ✅ s04 | permission-eval | 权限求值 | wildcard-match ruleset, last-match-wins |
-| ⏳ s05 | provider-iface | Provider 抽象 | Anthropic-only Provider interface |
+| ✅ s05 | provider-iface | Provider 抽象 | Anthropic-only Provider interface |
 | ⏳ s06 | streaming-loop | 流式循环 | streaming text + tool_use parse |
 | ⏳ s07 | session-store | 会话存储 | SQLite Session/Message/Part tables |
 | ⏳ s08 | config-load | 配置加载 | hierarchical opencode.json merge |

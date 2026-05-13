@@ -40,7 +40,7 @@ export const CURRICULUM: ChapterMeta[] = [
     slug: "s05-provider-iface",
     num: "s05",
     title: { zh: "Provider 抽象", en: "Provider abstraction" },
-    available: false,
+    available: true,
   },
   {
     slug: "s06-streaming-loop",

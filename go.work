@@ -5,4 +5,5 @@ use (
 	./agents/s02-message-parts
 	./agents/s03-tool-registry
 	./agents/s04-permission-eval
+	./agents/s05-provider-iface
 )
