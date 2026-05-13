@@ -38,7 +38,7 @@ npm run dev
 | ✅ s04 | permission-eval | Permission evaluator | wildcard-match ruleset, last-match-wins |
 | ✅ s05 | provider-iface | Provider abstraction | Anthropic-only Provider interface |
 | ✅ s06 | streaming-loop | Streaming loop | streaming text + tool_use parse |
-| ⏳ s07 | session-store | Session storage | SQLite Session/Message/Part tables |
+| ✅ s07 | session-store | Session storage | SQLite Session/Message/Part tables |
 | ⏳ s08 | config-load | Config loading | hierarchical opencode.json merge |
 | ⏳ s09 | agent-registry | Agent registry | Agent.Info + permission cascade |
 | ⏳ s10 | tool-loop | Tool execution loop | streaming + dispatch + result feedback |

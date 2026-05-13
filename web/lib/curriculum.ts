@@ -52,7 +52,7 @@ export const CURRICULUM: ChapterMeta[] = [
     slug: "s07-session-store",
     num: "s07",
     title: { zh: "会话存储", en: "Session storage" },
-    available: false,
+    available: true,
   },
   {
     slug: "s08-config-load",

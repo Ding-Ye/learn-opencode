@@ -26,6 +26,7 @@ jobs:
           - s04-permission-eval
           - s05-provider-iface
           - s06-streaming-loop
+          - s07-session-store
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5
