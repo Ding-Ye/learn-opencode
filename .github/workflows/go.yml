@@ -30,6 +30,7 @@ jobs:
           - s08-config-load
           - s09-agent-registry
           - s10-tool-loop
+          - s11-skills
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5

@@ -76,7 +76,7 @@ export const CURRICULUM: ChapterMeta[] = [
     slug: "s11-skills",
     num: "s11",
     title: { zh: "技能发现", en: "Skill discovery" },
-    available: false,
+    available: true,
   },
   {
     slug: "s12-mcp-client",
