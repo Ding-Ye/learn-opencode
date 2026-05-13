@@ -46,9 +46,9 @@ npm run dev
 | ⏳ s12 | mcp-client | MCP client | spawn child + JSONRPC over stdio |
 | ⏳ s13 | lsp-client | LSP client | language-server stdio + workspace symbols |
 | ✅ s14 | cost-and-recovery | Cost & error recovery | token counting + retry classification |
-| ⏳ s_full | integration | End-to-end integration | (doc only) |
-| ⏳ App. A | provider-philosophy | Appendix A · Provider abstraction philosophy | mental model |
-| ⏳ App. B | upstream-map | Appendix B · Upstream source-reading map | reference |
+| ✅ s_full | integration | End-to-end integration | (doc only) |
+| ✅ App. A | provider-philosophy | Appendix A · Provider abstraction philosophy | mental model |
+| ✅ App. B | upstream-map | Appendix B · Upstream source-reading map | reference |
 
 ✅ = chapter published; ⏳ = planned, not yet shipped.
 

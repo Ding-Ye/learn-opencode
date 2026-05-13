@@ -46,9 +46,9 @@ npm run dev
 | ⏳ s12 | mcp-client | MCP 客户端 | spawn child + JSONRPC over stdio |
 | ⏳ s13 | lsp-client | LSP 客户端 | language-server stdio + workspace symbols |
 | ✅ s14 | cost-and-recovery | 成本与错误恢复 | token counting + retry classification |
-| ⏳ s_full | integration | 端到端集成 | (doc only) |
-| ⏳ App. A | provider-philosophy | 附录 A · Provider 抽象哲学 | mental model |
-| ⏳ App. B | upstream-map | 附录 B · 上游源码导读地图 | reference |
+| ✅ s_full | integration | 端到端集成 | (doc only) |
+| ✅ App. A | provider-philosophy | 附录 A · Provider 抽象哲学 | mental model |
+| ✅ App. B | upstream-map | 附录 B · 上游源码导读地图 | reference |
 
 ✅ = doc 已发布；⏳ = 已规划，待发布。
 
