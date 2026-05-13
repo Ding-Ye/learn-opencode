@@ -9,4 +9,5 @@ use (
 	./agents/s06-streaming-loop
 	./agents/s07-session-store
 	./agents/s08-config-load
+	./agents/s09-agent-registry
 )

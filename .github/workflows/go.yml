@@ -28,6 +28,7 @@ jobs:
           - s06-streaming-loop
           - s07-session-store
           - s08-config-load
+          - s09-agent-registry
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5

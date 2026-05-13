@@ -64,7 +64,7 @@ export const CURRICULUM: ChapterMeta[] = [
     slug: "s09-agent-registry",
     num: "s09",
     title: { zh: "Agent 注册表", en: "Agent registry" },
-    available: false,
+    available: true,
   },
   {
     slug: "s10-tool-loop",
