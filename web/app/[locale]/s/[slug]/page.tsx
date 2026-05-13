@@ -80,6 +80,7 @@ function guessUpstreamFile(slug: string): string | null {
   // Convention: take "sNN" prefix + a descriptor.
   const map: Record<string, string> = {
     "s01-minimum-loop": "s01-llm.ts",
+    "s02-message-parts": "s02-message-v2.ts",
   };
   return map[slug] ?? null;
 }

@@ -33,7 +33,7 @@ npm run dev
 | # | slug | title | mechanism |
 |---|---|---|---|
 | ✅ s01 | minimum-loop | Minimum agent loop | one-shot Anthropic call + print |
-| ⏳ s02 | message-parts | Messages and Parts | Part union (Text/Tool/File/Reasoning) |
+| ✅ s02 | message-parts | Messages and Parts | Part union (Text/Tool/File/Reasoning) |
 | ⏳ s03 | tool-registry | Tool registry | Tool interface + JSON schema + dispatch |
 | ⏳ s04 | permission-eval | Permission evaluator | wildcard-match ruleset, last-match-wins |
 | ⏳ s05 | provider-iface | Provider abstraction | Anthropic-only Provider interface |

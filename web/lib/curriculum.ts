@@ -22,7 +22,7 @@ export const CURRICULUM: ChapterMeta[] = [
     slug: "s02-message-parts",
     num: "s02",
     title: { zh: "消息与 Part 模型", en: "Messages and Parts" },
-    available: false,
+    available: true,
   },
   {
     slug: "s03-tool-registry",

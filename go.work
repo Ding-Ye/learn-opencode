@@ -1,3 +1,6 @@
 go 1.22
 
-use ./agents/s01-minimum-loop
+use (
+	./agents/s01-minimum-loop
+	./agents/s02-message-parts
+)

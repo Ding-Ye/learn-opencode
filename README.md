@@ -33,7 +33,7 @@ npm run dev
 | # | slug | 标题 | mechanism |
 |---|---|---|---|
 | ✅ s01 | minimum-loop | 最小 agent loop | one-shot Anthropic call + print |
-| ⏳ s02 | message-parts | 消息与 Part 模型 | Part union (Text/Tool/File/Reasoning) |
+| ✅ s02 | message-parts | 消息与 Part 模型 | Part union (Text/Tool/File/Reasoning) |
 | ⏳ s03 | tool-registry | 工具注册表 | Tool interface + JSON schema + dispatch |
 | ⏳ s04 | permission-eval | 权限求值 | wildcard-match ruleset, last-match-wins |
 | ⏳ s05 | provider-iface | Provider 抽象 | Anthropic-only Provider interface |
