@@ -4,4 +4,5 @@ use (
 	./agents/s01-minimum-loop
 	./agents/s02-message-parts
 	./agents/s03-tool-registry
+	./agents/s04-permission-eval
 )

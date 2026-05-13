@@ -23,6 +23,7 @@ jobs:
           - s01-minimum-loop
           - s02-message-parts
           - s03-tool-registry
+          - s04-permission-eval
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5

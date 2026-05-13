@@ -34,7 +34,7 @@ export const CURRICULUM: ChapterMeta[] = [
     slug: "s04-permission-eval",
     num: "s04",
     title: { zh: "权限求值", en: "Permission evaluator" },
-    available: false,
+    available: true,
   },
   {
     slug: "s05-provider-iface",
