@@ -94,7 +94,7 @@ export const CURRICULUM: ChapterMeta[] = [
     slug: "s14-cost-and-recovery",
     num: "s14",
     title: { zh: "成本与错误恢复", en: "Cost & error recovery" },
-    available: false,
+    available: true,
   },
   {
     slug: "s_full-integration",

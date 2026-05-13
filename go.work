@@ -12,4 +12,5 @@ use (
 	./agents/s09-agent-registry
 	./agents/s10-tool-loop
 	./agents/s11-skills
+	./agents/s14-cost-and-recovery
 )

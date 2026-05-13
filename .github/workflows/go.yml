@@ -31,6 +31,7 @@ jobs:
           - s09-agent-registry
           - s10-tool-loop
           - s11-skills
+          - s14-cost-and-recovery
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5

@@ -90,6 +90,7 @@ function guessUpstreamFile(slug: string): string | null {
     "s09-agent-registry": "s09-agent.ts",
     "s10-tool-loop": "s10-processor.ts",
     "s11-skills": "s11-skill.ts",
+    "s14-cost-and-recovery": "s14-session-error.ts",
   };
   return map[slug] ?? null;
 }
