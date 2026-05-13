@@ -10,4 +10,5 @@ use (
 	./agents/s07-session-store
 	./agents/s08-config-load
 	./agents/s09-agent-registry
+	./agents/s10-tool-loop
 )

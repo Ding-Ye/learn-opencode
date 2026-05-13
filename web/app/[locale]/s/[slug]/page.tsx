@@ -88,6 +88,7 @@ function guessUpstreamFile(slug: string): string | null {
     "s07-session-store": "s07-session.ts",
     "s08-config-load": "s08-config.ts",
     "s09-agent-registry": "s09-agent.ts",
+    "s10-tool-loop": "s10-processor.ts",
   };
   return map[slug] ?? null;
 }

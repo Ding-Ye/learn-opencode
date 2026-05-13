@@ -70,7 +70,7 @@ export const CURRICULUM: ChapterMeta[] = [
     slug: "s10-tool-loop",
     num: "s10",
     title: { zh: "工具执行循环", en: "Tool execution loop" },
-    available: false,
+    available: true,
   },
   {
     slug: "s11-skills",
