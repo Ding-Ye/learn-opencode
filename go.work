@@ -1,0 +1,3 @@
+go 1.22
+
+use ./agents/s01-minimum-loop

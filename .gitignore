@@ -1,0 +1,29 @@
+# Skill workspace — must NEVER be pushed (contains the upstream clone, ~30-50MB)
+.learn/
+
+# Go
+*.exe
+*.test
+*.out
+**/agents/*/coverage.txt
+**/agents/*/main
+**/agents/*/s01-minimum-loop
+**/agents/*/s02-message-parts
+**/agents/*/s03-tool-registry
+
+# Node / Next
+node_modules/
+.next/
+out/
+dist/
+build/
+*.log
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Env
+.env
+.env.local
